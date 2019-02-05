@@ -8,13 +8,19 @@ CPU:
 i5-7200u
 
 EFI include:
+
 ApplePS2SmartTouchPad
+
 RTLWlanU
+
 AppleALC
+
 etc.
 
 Not working on all Xiaomi laptop:
+
 WIFI Intel
+
 Bluetooth
 
 Please backup your origin efi.
