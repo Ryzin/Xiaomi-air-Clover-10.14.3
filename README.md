@@ -21,12 +21,6 @@ AppleALC
 etc.
 
 
-Not working on all Xiaomi laptop:
-
-WIFI Intel
-
-Bluetooth
-
 
 Please backup your origin efi.
 
