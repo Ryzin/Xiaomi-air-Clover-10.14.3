@@ -22,5 +22,5 @@ etc.
 
 
 
-Please backup your origin efi.
+Please backup your original EFI files.
 
